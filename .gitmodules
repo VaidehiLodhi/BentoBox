@@ -1,3 +1,6 @@
 [submodule "MerlotFirebase"]
 	path = MerlotFirebase
 	url = https://github.com/VaidehiLodhi/MerlotFirebase.git
+[submodule "Hive"]
+	path = Hive
+	url = https://github.com/VaidehiLodhi/Hive.git
