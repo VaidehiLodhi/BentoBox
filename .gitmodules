@@ -1,0 +1,3 @@
+[submodule "MerlotFirebase"]
+	path = MerlotFirebase
+	url = https://github.com/VaidehiLodhi/MerlotFirebase.git
